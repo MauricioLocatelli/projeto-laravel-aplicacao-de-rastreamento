@@ -23,7 +23,7 @@ Durante o desenvolvimento deste projeto, os seguintes conhecimentos foram aplica
 - ✅ Implementação de painéis administrativos com Filament PHP
 - ✅ Utilização de Enums para controle de status dos fretes
 
-##📦 Funcionalidades Principais
+## 📦 Funcionalidades Principais
 - Cadastro e gerenciamento de fretes
 - Atualização de status dos pedidos via Enums
 - Painel administrativo completo com Filament
