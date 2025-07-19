@@ -13,7 +13,7 @@ Este projeto foi desenvolvido como parte de um curso prático de Laravel com foc
 - API RESTful
 - MVC (Model-View-Controller)
 
-## 🧠 Conhecimentos Aplicados
+## 🧠 Conceitos e Funcionalidades Desenvolvidas
 
 Durante o desenvolvimento deste projeto, os seguintes conhecimentos foram aplicados:
 
